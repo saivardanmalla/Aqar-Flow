@@ -1,0 +1,6 @@
+{
+  "name": "AqarFlow by VIRELEO - Real Estate Operations & CRM",
+  "description": "One connected platform for modern real estate operations. Complete real estate ERP, CRM, property listing marketplace, visit scheduling, and deal management by VIRELEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
